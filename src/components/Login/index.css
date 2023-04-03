@@ -1,0 +1,12 @@
+/* Write your CSS here */
+.log-in {
+  font-size: 24px;
+  background-color: #f8fafc;
+  padding-top: 12px;
+  padding-bottom: 12px;
+  padding-left: 32px;
+  padding-right: 32px;
+  border-radius: 10px;
+  color: #303150;
+  border: none;
+}
